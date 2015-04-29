@@ -25,6 +25,6 @@ Libbarpp was designed to be OOP portable library. Currently only Win32 platform 
     * CBarReaderCode128
 
 Libbarpp also includes Barpp applications. Barpp is written in MFC with Ribbon interface and the point of the application is to give a preview of the functions provided by Libbarpp.
-![http://libbarpp.googlecode.com/files/barpp_screenshot.png](http://libbarpp.googlecode.com/files/barpp_screenshot.png)
+![https://web.archive.org/web/20150429133541im_/https://i.imgur.com/zpJjGWG.png](https://web.archive.org/web/20150429133541im_/https://i.imgur.com/zpJjGWG.png)
 
 Please visit my personal website http://dominikcebula.pl/
